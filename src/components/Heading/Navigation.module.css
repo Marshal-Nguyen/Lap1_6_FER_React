@@ -1,0 +1,9 @@
+.liHover:hover{
+    background-color: orange;
+}
+.liHover{
+    padding: 10px 20px;
+}
+.darkMode{
+    padding: 10px 20px;
+}
